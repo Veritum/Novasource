@@ -1,0 +1,7 @@
+# SETUP:
+1. Download Allegro
+2. Make a window and an eventloop
+3. Make a renderer to draw and display things
+4. Make an image class that stores the images
+5. Make the renderer display these images
+6. Add WASD and Mouse input
